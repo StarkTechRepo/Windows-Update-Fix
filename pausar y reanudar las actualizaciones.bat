@@ -1,4 +1,6 @@
 @echo off
+title - https://github.com/OtaconEvil
+
 REM --- Menú para pausar y reanudar las actualizaciones ---
 
 :menu
