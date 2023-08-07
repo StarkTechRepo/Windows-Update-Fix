@@ -1,4 +1,6 @@
 @echo off
+title - https://github.com/OtaconEvil
+
 REM --- Verificar si el script se está ejecutando como administrador ---
 NET FILE 1>NUL 2>NUL
 if '%errorlevel%' == '0' ( goto :continue ) else ( goto :getadmin )
